@@ -1,0 +1,9 @@
+.gradle
+.idea
+log
+*.jar
+*.class
+build
+target
+tmp
+out
